@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+<link rel="stylesheet" href="nk.css">
+</head>
+<body>
+    <h2>DADOS PESSOAIS</h2>
+    <br/><br>
+    
+<form>
+
+Nome completo: <input type="text" placeholder= "digite seu nome"/> <br/><br/>
+Insira seu CPF: <input type="number" placeholder= "00000000000"/> <br/><br/>
+Data de nascimento: <input type="date" placeholder= "DD/MM/AAAA"/><br/><br/>
+Insira seu telefone: <input type="tel" placeholder= "(DDD) 00000-0000"/><br/><br/>
+<input id="botao" type="submit" value="ENVIAR">
+
+</form>
+
+</body>
+</html>
